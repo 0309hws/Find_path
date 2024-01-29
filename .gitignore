@@ -9,7 +9,7 @@ test.py
 
 
 # data files
-**.npy
+# **.npy
 
 # image files
 **.jpg
